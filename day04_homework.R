@@ -1,6 +1,6 @@
 # DAY 4 HOMEWORK
 #
-# Name:
+# Name: Nanami Mikawa
 
 # For this week's homework, the answer to each question should be a dataframe
 # (tibble)
